@@ -71,4 +71,4 @@ Este proyecto es de uso libre con fines educativos. Puedes adaptarlo y reutiliza
 
 ## 👨‍💻 Autor
 
-Tu Nombre — https://github.com/tu_usuario
+Marc — https://github.com/marcgarciacampobadal
